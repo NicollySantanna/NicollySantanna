@@ -5,7 +5,11 @@
 - 📫 Me envie um email: nicollyengenheira@gmail.com
 - 😄 Pronomes: Ela/Dela
 
-
+<div align="center">
+  <a href="https://github.com/NicollySantanna">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicollySantanna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollySantanna&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
   ##
   
