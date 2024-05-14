@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nicolly Sant'Anna
 
 
-- 🌱 Conhecimentos em: JAVASCRIPT, HTML, CSS, BOOTSTRAP, VUEJS, NODEJS, MONGODB
+- 🌱 Conhecimentos em: JAVASCRIPT, HTML, CSS, REACT, NODEJS e MONGODB
 - 📫 Me envie um email: nicollyengenheira@gmail.com
 - 😄 Pronomes: Ela/Dela
 
