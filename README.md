@@ -2,8 +2,7 @@
 
 - Analista de sistemas - Engenharia de Software
 - 🌱 Conhecimentos em: JAVASCRIPT, HTML, CSS, REACT, NODEJS e MONGODB
-- 📫 Me envie um email: nicollyengenheira@gmail.com
-- 😄 Pronomes: Ela/Dela
+
 
   
   ##
