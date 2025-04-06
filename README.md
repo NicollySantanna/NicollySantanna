@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nicolly Sant'Anna
 
 - Analista de sistemas - Engenharia de Software
-- 🌱 Conhecimentos em: JAVASCRIPT, HTML, CSS, REACT, NODEJS e MONGODB
+- 🌱 Conhecimentos em: JAVASCRIPT, HTML, CSS, REACT, PYTHON, DJANGO
 
 
   
